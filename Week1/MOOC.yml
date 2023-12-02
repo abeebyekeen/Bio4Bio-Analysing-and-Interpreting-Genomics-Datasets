@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bcftools
+  - bwa
+  - bzip2
+  - fastqc
+  - freebayes
+  - multiqc
+  - samtools
+  - sra-tools
+  - tabixpp=1.1.2=hd68fcf3_1
+# prefix: /users/nanje/miniconda3/envs/MOOC
